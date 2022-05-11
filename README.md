@@ -1,6 +1,6 @@
 Hello!
 
-  Me chamo Thiago Henrique, tenho 29 anos, Brasileiro, natural de São Paulo - SP.
+  Me chamo Thiago Henrique, tenho 30 anos, Brasileiro, natural de São Paulo - SP.
 
 - 🔭 Formado em Ánalise e Desenvolvimento de Sistemas pela Universidade Paulista
 - 🌱 Desenvolvedor Front-end / Mobile ( React - React Native )
